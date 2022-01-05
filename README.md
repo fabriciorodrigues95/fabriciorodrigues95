@@ -3,6 +3,8 @@
 - 🔭 Hoje trabalho como técnico de sistemas
 - 🌱 Atualmente estudando: html, css, javascript
 
+- 🔭 Today I work as a systems technician  
+- 🌱Currently studying: html, css, javascript
 <div align="center">
   <a href="https://github.com/fabriciorodrigues95">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabriciorodrigues95&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
