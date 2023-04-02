@@ -3,7 +3,7 @@
 - 🔭 Hoje trabalho como técnico de sistemas
 - 🌱 Atualmente estudando: html, css, javascript
 <div align="left">
-        <a href="http://linkedin.com/in/fabricio-gomes95" target="_blank" >Acesso ao meu linkedin!</a>
+        <a href="http://linkedin.com/in/fabricio-gomes95" target="_blank">Acesso ao meu linkedin!</a>
     </div></br>
 <div align="center">
   <a href="https://github.com/fabriciorodrigues95">
